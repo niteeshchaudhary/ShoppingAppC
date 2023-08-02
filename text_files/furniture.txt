@@ -1,0 +1,2 @@
+S|master sofa|blue color sofa$$royal look|50000|D:\c_cpp_pro\csPoject\proimg\Picture11.bmp|108| ; 
+S|master sofa(|its so soft $$white color sofa |40000|D:\c_cpp_pro\csPoject\proimg\Picture12.bmp|sler| ; 

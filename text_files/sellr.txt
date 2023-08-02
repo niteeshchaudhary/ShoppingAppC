@@ -1,0 +1,13 @@
+A|nkc|abc| | ; 
+A|102|qwe| tyu| ; 
+A|jkm|kio| | ; 
+A|kip|pih| | ; 
+A|wer|ert| | ; 
+A|gbh|hbg| | ; 
+A|kop|pop| | ; 
+A|123|rty| | ; 
+A|Tarun|111| | ; 
+A|108|abc| | ; 
+A|sler|sop| | ; 
+A|hij|890| | ; 
+A|ert|ert| | ; 

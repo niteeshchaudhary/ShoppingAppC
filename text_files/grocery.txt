@@ -1,0 +1,2 @@
+S|bucket|available with tomato sauce, oil,masala,vim,etc|500|D:\c_cpp_pro\csPoject\proimg\Picture19.bmp|108| ; 
+S|cold drink|coca cola|50|D:\c_cpp_pro\csPoject\proimg\Picture18.bmp|108| ; 

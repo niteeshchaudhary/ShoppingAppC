@@ -1,0 +1,1 @@
+S|fridge|double door fridge$$keeps food cool$$|40000|D:\c_cpp_pro\csPoject\proimg\Picture10.bmp|108| ; 
